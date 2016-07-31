@@ -12,6 +12,8 @@ Colocar el archivo "did-dark.conf" en el directorio /carpeta_personal/.config/ge
 Seleccionar el tema en Geany, desde el menú Ver -> Editor -> Esquemas de color
 
 ====================
+====================
+====================
 
 # Did Dark
 ## Colorschemes für Geany
@@ -27,7 +29,8 @@ Legen Sie die "did-dark.conf" Datei im Verzeichnis /DU_NAME/.config/geany/colors
 Wählen Sie das Thema in Geany, aus dem Menü Ansicht -> Editor -> Farbschemata
 
 ====================
-
+====================
+====================
 
 # Did Dark
 ## Colorschemes for Geany
